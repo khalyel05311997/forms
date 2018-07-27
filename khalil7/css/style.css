@@ -1,0 +1,106 @@
+body{
+background-color: #92bde7;
+    color: #485e74;
+    line-height: 1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.t1 span{
+color:white;
+}
+
+h1{
+
+display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    padding-top: 62px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    position: relative;
+    top:-20px;
+    left:52px;
+}
+img{
+width: 320px;
+height: 250px;
+
+}
+
+.section{
+background-color: rgb(201,230,255);
+width: 250px;
+
+display: inline-block;
+     padding-left: 30px;
+    padding-right: 100px;
+    padding-top: 35px;
+    padding-bottom: 40px;
+    position: relative;
+    top:-73px;
+    left:89px;
+}
+.section{
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  height: 645px;
+}
+.section2{
+background-color: #f9feff;
+width: 700px;
+position: relative;
+top:-789px;
+left:469px;
+padding-top: 50px;
+    padding-left: 20px;
+    
+    height: 666px;
+}
+#slide{
+width: 400px;
+height: 40px;
+}
+#name{
+
+width: 400px;
+height: 40px;
+}
+#txt{
+width:650px;
+height: 150px;
+
+}
+
+#submit{
+text-transform: uppercase;
+background-color: #c9e6ff;
+width: 660px;
+height: 40px;
+font: 400 13.3333px Arial;;
+border:0px;
+color:#000000;
+}
+
+#submit:hover{
+color:white;
+background-color:#92bde7 ;
+    transition: all 0.65s;
+}
+
+input{
+border-color: 2px #c9e6ff;
+
+}
+
+#thx{
+background-color: #79c879;
+color:white;
+display: none;
+width:250px;
+height: 40px;
+font-size: 16px;
+}
